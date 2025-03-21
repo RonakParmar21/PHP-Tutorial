@@ -244,3 +244,35 @@ a class.
         - next() Moves the pointer to the next element in the list
         - rewind() Moves the pointer to the first element in the list
         - valid() If the internal pointer is not pointing to any element (for example, if next() was called at the end of the list), this should return false. It returns true in any other case
+
+
+# 06 AJAX :-
+--------------
+- AJAX stands for Asynchronous JavaScript and XML.
+- AJAX is a technique for creating fast and dynamic web pages.
+- It is possible to update parts of a web page, without reloading the whole page.
+
+
+### AJAX is Based on Internet Standards :-
+- AJAX is based on internet standards, and uses a combination of:
+    - XMLHttpRequest object (to exchange data asynchronously with a server)
+    - JavaScript/DOM (to display/interact with the information)
+    - CSS (to style the data)
+    - XML (often used as the format for transferring data)
+
+### NOTE :- 
+    AJAX was made popular in 2005 by Google, with Google Suggest.
+
+- AJAX is used to create more interactive applications.
+
+### AJAX with DATABASE :-
+- AJAX can be used for interactive communication with a database.
+
+### AJAX with XML :- 
+- AJAX can be used for interactive communication with an XML file.
+
+### AJAX Live Search :-
+- Live search has many benefits compared to traditional searching:
+    - Results are shown as you type
+    - Results narrow as you continue typing
+    - If results become too narrow, remove characters to see a broader result
