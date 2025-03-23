@@ -22,7 +22,6 @@
         $stmt = $conn->prepare("INSERT INTO MyGuests (firstname, lastname, email) VALUES (?, ?, ?)");
         $stmt->bind_param("sss", $firstname, $lastname, $email);
 
-        // set parameters and execute
         $firstname = "John";
         $lastname = "Doe";
         $email = "john@example.com";
